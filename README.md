@@ -1,9 +1,9 @@
 ### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there, I'm [Ojasvi](https://github.com/Ojasvi-jain) 👋</h1>
-Hello, I am another Tech Savvy Person
+Hello, I am a Tech Savvy Person
 - 👯 I’m looking to collaborate on Open_Source Projects✌
-- 📓 I’m Always eager to learn Anything about tech
+- 📓 I’m Always eager to learn **Anything** about tech
 - 💬 Ask me about Python
-- 📫 How to reach me:  
+- 📫 Feel free to reach me :  
     Dm me on <img height="22" src="https://github.com/Ojasvi-jain/Ojasvi-jain/blob/master/Assets/Discord.png"> `#Oj6955`  
     or  
     Mail me at`ojasvi.jaain@gmail.com`
@@ -13,7 +13,7 @@ Hello, I am another Tech Savvy Person
 
 **Working_On:**  
 - Discord Bot.py  <img height="22" src="https://github.com/Ojasvi-jain/Ojasvi-jain/blob/master/Assets/Discord.png">
-- Personal Password Manager  
+- Personal Password Manager
 
 
 **Languages and Tools:**
@@ -29,9 +29,10 @@ Hello, I am another Tech Savvy Person
 **Learning:** 😄 
 
 - Everything
+	- No **Kowledge** is enough **Knowledge**
 	- Javascript
 	- Ardunio
 	- cp
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ojasvi-jain&count_private=true&show_icons=true&theme=tokyonight)
+![Ojasvi's github stats](https://github-readme-stats.vercel.app/api?username=Ojasvi-jain&count_private=true&show_icons=true&theme=tokyonight)
