@@ -2,9 +2,9 @@
 Hello, I am a Tech Savvy Person
 - 👯 I’m looking to collaborate on Open_Source Projects✌
 - 📓 I’m Always eager to learn **Anything** about tech
-- 💬 Ask me about Python
+- 💬 Ask me about Python, javascript and git
 - 🤔Adjectives: Curious, humorous, friendly and that's pretty much it😉
-- ⚡ Fun fact: I can solve a rubiks cube😎 
+- ⚡ Fun fact: I can solve a rubiks cube😎 and love to play CHESS  
 - 📫 Feel free to reach me :  
     Dm me on [<img height = "22" src="https://img.shields.io/badge/discord-%237289da.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/users/732895521215086697) `#Oj6955`  
     or  
