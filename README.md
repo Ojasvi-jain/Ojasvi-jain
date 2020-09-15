@@ -1,18 +1,6 @@
 ### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there, I'm [Ojasvi](https://github.com/Ojasvi-jain) 👋</h1>
 Hello, I am a Tech Savvy Person
 - 👯 I’m looking to collaborate on Open_Source Projects✌
-<<<<<<< HEAD
-- 📓 I’m Always eager to learn Anything about tech
-- 💬 Ask me about Python
-- 📫 How to reach me:
-- 🤔Adjectives: Curious, humorous, friendly and that's pretty much it😉
-- ⚡ Fun fact: I can solve a rubiks cube😎
-
-
-**Working_On:**
-- Discord Bot.py
-- Personal Password Manager
-=======
 - 📓 I’m Always eager to learn **Anything** about tech
 - 💬 Ask me about Python, javascript and git
 - 🤔Adjectives: Curious, humorous, friendly and that's pretty much it😉
@@ -28,7 +16,6 @@ Hello, I am a Tech Savvy Person
 - Discord Bot.py  <img height="22" src="https://github.com/Ojasvi-jain/Ojasvi-jain/blob/master/Assets/Discord.png">
 - Personal Password Manager
 - Myself 😅
->>>>>>> e3319dff6a574f430beb54e603947317af330155
 
 
 **Languages and Tools:**
@@ -41,7 +28,7 @@ Hello, I am a Tech Savvy Person
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-**Learning:** 😄
+**Learning:** 😄 
 
 - Everything
 	- No **Kowledge** is enough **Knowledge**
