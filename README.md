@@ -3,14 +3,14 @@ Hello, I am another Tech Savvy Person
 - 👯 I’m looking to collaborate on Open_Source Projects✌
 - 📓 I’m Always eager to learn Anything about tech
 - 💬 Ask me about Python
-- 📫 How to reach me: 
+- 📫 How to reach me:
 - 🤔Adjectives: Curious, humorous, friendly and that's pretty much it😉
-- ⚡ Fun fact: I can solve a rubiks cube😎  
+- ⚡ Fun fact: I can solve a rubiks cube😎
 
 
-**Working_On:**  
-- Discord Bot.py  
-- Personal Password Manager  
+**Working_On:**
+- Discord Bot.py
+- Personal Password Manager
 
 
 **Languages and Tools:**
@@ -22,7 +22,7 @@ Hello, I am another Tech Savvy Person
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-**Learning:** 😄 
+**Learning:** 😄
 
 - Everything
 	- Javascript
