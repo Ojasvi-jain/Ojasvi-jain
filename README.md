@@ -5,7 +5,7 @@
 - 💬 Ask me about Python, javascript and git
 - 🤔Adjectives: Curious, humorous, friendly and that's pretty much it😉
 - ⚡ Fun fact: I can solve a rubiks cube😎 and love to play CHESS  
-- 📫 I would love to have a chat feel completely free to reach me at :  
+- 📫 I would love to have a chat feel completely free to reach me :  
     Dm me on [<img height = "24" src="https://github.com/Ojasvi-jain/Ojasvi-jain/blob/master/Assets/Discord-Logo.png">](https://discord.com/users/732895521215086697) `#Oj6955`  
     or  
     Mail me at `ojasvi.jaain@gmail.com`
@@ -13,7 +13,7 @@
 
 
 **Working_On:**  
-- Discord Bot.py  <img height="20" src="https://github.com/Ojasvi-jain/Ojasvi-jain/blob/master/Assets/Discord.png">
+- Discord Bot.py  <img height="23" src="https://github.com/Ojasvi-jain/Ojasvi-jain/blob/master/Assets/Discord.png">
 - Personal Password Manager
 - Myself 😅
 
@@ -30,7 +30,7 @@
 
 **Learning:** 😄 
 
-- 𝑬𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈
+- Σｖｅｒｙｔｈｉｎｇ  
 	- No **Kowledge** is enough **Knowledge**
 	- Javascript
 	- Ardunio
