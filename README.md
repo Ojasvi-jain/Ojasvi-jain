@@ -1,19 +1,22 @@
 ### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there, I'm [Ojasvi](https://github.com/Ojasvi-jain) 👋</h1>
- I am a Tech Savvy Person
+```py
+Helloooooo peeps I am your not average Tech savy♥ 
+```
+<kbd>O</kbd> <kbd>J</kbd>  
 - 👯 I’m looking to collaborate on Open_Source Projects✌
 - 📓 I’m Always eager to learn **Anything** about tech
 - 💬 Ask me about Python, javascript and git
 - 🤔Adjectives: Curious, humorous, friendly and that's pretty much it😉
 - ⚡ Fun fact: I can solve a rubiks cube😎 and love to play CHESS  
 - 📫 I would love to have a chat feel completely free to reach me :  
-    Dm me on [<img height = "24" src="https://github.com/Ojasvi-jain/Ojasvi-jain/blob/master/Assets/Discord-Logo.png">](https://discord.com/users/732895521215086697) `#Oj6955`  
+    Dm me on <kbd>[<img height = "20" src="https://github.com/Ojasvi-jain/Ojasvi-jain/blob/master/Assets/Discord-Logo.png">](https://discord.com/users/732895521215086697)</kbd> `#Oj6955` 
     or  
     Mail me at `ojasvi.jaain@gmail.com`
 
 
 
 **Working_On:**  
-- Discord Bot.py  <img height="23" src="https://github.com/Ojasvi-jain/Ojasvi-jain/blob/master/Assets/Discord.png">
+- Discord Bot.py  <img height="20" src="https://github.com/Ojasvi-jain/Ojasvi-jain/blob/master/Assets/Discord.png">
 - Personal Password Manager
 - Myself 😅
 
@@ -38,4 +41,4 @@
 
 
 ![Ojasvi's github stats](https://github-readme-stats.vercel.app/api?username=Ojasvi-jain&count_private=true&show_icons=true&theme=tokyonight)
-..........
+---
