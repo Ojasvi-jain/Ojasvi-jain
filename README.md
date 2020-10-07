@@ -1,11 +1,10 @@
-### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there, I'm [Ojasvi](https://github.com/Ojasvi-jain) 👋</h1>
 ```py
 Helloooooo peeps I am your not average Tech savy♥ 
 ```
 <kbd>O</kbd> <kbd>J</kbd>  
-- 👯 I’m looking to collaborate on Open_Source Projects✌
 - 📓 I’m Always eager to learn **Anything** about tech
 - 💬 Ask me about Python, javascript and git
+- 👯 I’m looking to collaborate on Open_Source Projects✌
 - 🤔Adjectives: Curious, humorous, friendly and that's pretty much it😉
 - ⚡ Fun fact: I can solve a rubiks cube😎 and love to play CHESS  
 - 📫 I would love to have a chat feel completely free to reach me :  
