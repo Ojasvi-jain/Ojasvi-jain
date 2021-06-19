@@ -32,8 +32,7 @@ Helloooooo peeps I am your not average Tech savy♥
 
 **Learning:** 😄 
 
-- Σｖｅｒｙｔｈｉｎｇ  
-	- No **Kowledge** is enough **Knowledge**
+- Σｖｅｒｙｔｈｉｎｇ
 	- Javascript
 	- Ardunio
 	- cp
