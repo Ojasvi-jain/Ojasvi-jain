@@ -10,7 +10,7 @@ Helloooooo peeps I am your not average Tech savy♥
 - 📫 I would love to have a chat feel completely free to reach me :  
     Dm me on <kbd>[<img height = "20" src="https://github.com/Ojasvi-jain/Ojasvi-jain/blob/master/Assets/Discord-Logo.png">](https://discord.com/users/732895521215086697)</kbd> `#Oj6955` 
     or  
-    Mail me at `ojasvi.jaain@gmail.com`
+    Mail me at `ojasvi2005@outlook.com`
 
 
 
